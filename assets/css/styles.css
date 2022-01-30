@@ -8,3 +8,8 @@
     background-image: url('/assets/img/justin-schwartfigure-1sCEtd3Zna4-unsplash.jpg');
     background-size: cover;
   }
+
+.logo {
+    border: 2px black solid;
+    padding: 0;
+}
